@@ -1,6 +1,38 @@
 ﻿<Properties StartupConfiguration="{4A7456AD-423C-4152-92EA-C5D0EF034C00}|Default">
-  <MonoDevelop.Ide.ItemProperties.MCPRactice.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.MCPRactice.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.MCPRactice FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MCPRactice/Views/SecondPage.xaml.cs">
+    <Files>
+      <File FileName="MCPRactice/MainPage.xaml" Line="24" Column="59" />
+      <File FileName="MCPRactice/ViewModels/MainViewModel.cs" Line="18" Column="72" />
+      <File FileName="MCPRactice/MainPage.xaml.cs" Line="18" Column="10" />
+      <File FileName="MCPRactice/ViewModels/BaseViewModel.cs" Line="7" Column="65" />
+      <File FileName="MCPRactice/App.xaml.cs" Line="13" Column="60" />
+      <File FileName="MCPRactice/ViewModels/SecondViewModel.cs" Line="8" Column="35" />
+      <File FileName="MCPRactice/Views/SecondPage.xaml.cs" Line="13" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MCPRactice" expanded="True">
+            <Node name="MCPRactice" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="SecondPage.xaml" expanded="True">
+                  <Node name="SecondPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MCPRactice.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

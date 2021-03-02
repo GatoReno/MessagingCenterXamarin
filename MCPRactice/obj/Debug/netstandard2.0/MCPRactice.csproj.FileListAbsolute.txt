@@ -1,0 +1,15 @@
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/bin/Debug/netstandard2.0/MCPRactice.deps.json
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/bin/Debug/netstandard2.0/MCPRactice.dll
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/bin/Debug/netstandard2.0/ref/MCPRactice.dll
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/bin/Debug/netstandard2.0/MCPRactice.pdb
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/Views/SecondPage.xaml.g.cs
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MCPRactice.AssemblyInfoInputs.cache
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MCPRactice.AssemblyInfo.cs
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MCPRactice.csproj.CoreCompileInputs.cache
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MCPRactice.dll
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/ref/MCPRactice.dll
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MCPRactice.pdb
+/Users/edrodriguez/projects/MCPRactice/MCPRactice/obj/Debug/netstandard2.0/MCPRactice.csprojAssemblyReference.cache
