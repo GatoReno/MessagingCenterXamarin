@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jo4SLMf92e1WL4bBtnodZe9iXC1RFXCuV8/Bv+vZnuW4s4Z73O9mSJkZlwH1utxWsHrYebq9MvccJC0QL3Fbeg==",
+  "success": true,
+  "projectFilePath": "/Users/edrodriguez/projects/MCPRactice/MCPRactice.iOS/MCPRactice.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/edrodriguez/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/edrodriguez/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
